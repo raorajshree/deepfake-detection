@@ -32,8 +32,6 @@ With the rise of synthetic media, detecting manipulated videos (DeepFakes) has b
 
 ## 📁 Project Structure
 
-```
-
 DeepFake-Detection/
 ├── model/                  # Training code & architecture
 │   ├── train\_model.py
@@ -122,8 +120,4 @@ This project supports custom datasets and public datasets like:
 
 This project is under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-```
 
----
-
-```
