@@ -41,7 +41,7 @@ DeepFake-Detection/
 │   │   ├── views.py
 │   │   └── ...
 │   └── templates/
-├── sample\_input/           # Sample video
+├── sample\_input/           # Sample image 
 ├── sample\_output/          # Prediction result (screenshot)
 ├── requirements.txt
 ├── README.md
@@ -91,18 +91,14 @@ This project supports custom datasets and public datasets like:
 
 ## 📷 Sample Input
 
-<p align="center">
-  <img src="sample_output/sample_input.png" width="500"/>
-</p>
+![Sample Input](sample_input.png)
 
 ---
 ---
 
 ## 📷 Sample Output
 
-<p align="center">
-  <img src="sample_output/prediction-screenshot.png" width="500"/>
-</p>
+![Prediction Screenshot](prediction-screenshot.png)
 
 ---
 
