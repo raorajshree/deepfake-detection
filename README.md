@@ -1,8 +1,6 @@
 
 
----
 
-```markdown
 # 🧠 DeepFake Face Detection using ResNext & LSTM
 
 This project is designed to detect DeepFake videos by identifying spatial and temporal inconsistencies in facial frames. It leverages a hybrid **ResNext50 CNN** for frame-level feature extraction and **LSTM** for temporal sequence modeling.
