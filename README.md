@@ -29,7 +29,7 @@ With the rise of synthetic media, detecting manipulated videos (DeepFakes) has b
 ---
 
 ## 📁 Project Structure
-
+<pre>
 DeepFake-Detection/
 ├── model/                  # Training code & architecture
 │   ├── train\_model.py
@@ -47,7 +47,7 @@ DeepFake-Detection/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-
+</pre>
 
 
 ---
