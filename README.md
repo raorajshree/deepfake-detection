@@ -89,10 +89,19 @@ This project supports custom datasets and public datasets like:
 
 ---
 
+## 📷 Sample Input
+
+<p align="center">
+  <img src="sample_output/sample_input.png" width="500"/>
+</p>
+
+---
+---
+
 ## 📷 Sample Output
 
 <p align="center">
-  <img src="sample_output/prediction_screenshot.png" width="500"/>
+  <img src="sample_output/prediction-screenshot.png" width="500"/>
 </p>
 
 ---
