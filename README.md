@@ -48,7 +48,7 @@ DeepFake-Detection/
 ├── README.md
 └── .gitignore
 
-````
+
 
 ---
 
@@ -60,7 +60,7 @@ DeepFake-Detection/
 git clone https://github.com/your-username/DeepFake-Detection.git
 cd DeepFake-Detection
 pip install -r requirements.txt
-````
+```
 
 ### 🏁 Run Web Application
 
