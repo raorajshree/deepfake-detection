@@ -1,0 +1,7 @@
+torch
+torchvision
+dlib
+opencv-python
+numpy
+pillow
+django
